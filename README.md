@@ -32,7 +32,7 @@ When problematic content is detected, the system can **block it** and return a s
 
 The application includes a simulated customer interaction designed for training purposes.
 
-A trainee customer service agent interacts with an **LLM-powered customer** who is intentionally frustrated because a product they purchased — the **ACME Power Widget Pro** — has stopped working.
+A trainee customer service agent interacts with an **LLM-powered customer** who is intentionally frustrated because a product they purchased the **ACME Power Widget Pro** has stopped working.
 
 The trainee must handle the conversation professionally while attempting to resolve the customer's problem.
 
