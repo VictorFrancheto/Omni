@@ -237,6 +237,8 @@ Meanwhile, **Phoenix tracing** records the behavior of the AI components for deb
 
 The initial project scaffolding is already provided.
 
+For the step-by-step instructions to create and configure the project environment, see [Environment Setup](project/setup_environment.md).
+
 Your task is to complete specific parts of the implementation while applying the concepts covered throughout the project.
 
 The exercises are organized as a **sequence of steps**, and each step builds on the previous one.
